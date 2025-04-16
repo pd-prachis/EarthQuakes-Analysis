@@ -1,6 +1,7 @@
 #Earthquakes-Analysis-Dashboard
 
 📊 Dashboard Link: https://app.powerbi.com/groups/me/reports/38844816-c5a8-4e29-989f-258a7fc38345/4a85a568b3cd93580072?experience=power-bi
+
 📄 PDF Link: https://github.com/pd-prachis/EarthQuakes-Analysis/blob/main/Earthquakes%20%20Analysis.pdf
 
 📌 Problem Statement
